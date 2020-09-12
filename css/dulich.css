@@ -310,7 +310,6 @@ div.map a:nth-child(1) {
 
 
 
-
 /* ----- RIGHT ----- */
 
 div.season > h1 {
@@ -346,7 +345,7 @@ div.place > h2 {
 }
 
 div.plc1 {
-    background-image: url("../images/mocchau2.jpg");
+    background-image: url("../images/mocchau.jpg");
 }
 div.plc2 {
     background-image: url("../images/yentu_quangninh.jpg");
@@ -427,7 +426,7 @@ div.plc20 {
  /* ----- CSS FOOTER ----- */
 
  footer{
-    margin-bottom:35px;
+    margin-bottom: 35px;
     padding-top:50px;
     background-image: url(../images/bg-dl.jpg);
     background-repeat: no-repeat;  
@@ -484,6 +483,5 @@ ul.social > li a {
 ul.social > li a:hover {
     color: yellow;
 }
-
 
 
